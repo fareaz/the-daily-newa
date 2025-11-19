@@ -7,7 +7,10 @@ This project was created for learning and experimenting with modern frontend too
 
 🔗 Live Link: https://enchanting-toffee-55bb1d.netlify.app/category/0
 
-📌 Note: This website is currently responsive only for laptop & desktop screens.
+## 🌐 Responsive
+
+> ⚠️ **Current status:** This web app is currently optimized for **laptop & desktop** screens only and is **not fully responsive** for mobile devices yet.  
+> I built this project as a learning exercise and will add mobile & tablet support soon.
 
 🔐 Authentication Features
 
